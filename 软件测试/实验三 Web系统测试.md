@@ -238,7 +238,7 @@ func registerUser(testCase TestCase) bool {
 选择一个网站， 对其进行性能测试。 要求使用 WebLoad 进行压力测试
 
 #### 网站加载数据的测试结果
-![加载数据.png](images/加载数据.png)
+![加载数据](images/加载数据.png)
 
 
 #### 网站各项性能指标
