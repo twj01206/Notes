@@ -230,27 +230,27 @@ func registerUser(testCase TestCase) bool {
 
 测试
 
-![[测试.png]]
+![测试](images/测试.png)
 
 ### 题目二：测试网站性能
 
 选择一个网站， 对其进行性能测试。 要求使用 WebLoad 进行压力测试
 
 #### 网站加载数据的测试结果
-![[加载数据.png]]
+![加载数据.png](images/加载数据.png)
 
 
 #### 网站各项性能指标
 
-![[性能测试.png]]
+![性能测试.png](images/性能测试.png)
 # 四、测试结果
 
 
 题目一：对网站注册进行测试
 连接测试：
-![[连接测试.png]]
+![连接测试.png](images/连接测试.png)
 
-![[结果 1.png]]
+![结果 1.png](images/结果.png)
 
 
 # 五、总结报告
